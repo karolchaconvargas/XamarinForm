@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ProjectoHamburguesaXmarin.MainPage">
+
+    <ContentPage.Content>
+        <!--StackLayout No permite trabajarcon los elementos que trabajemos de forma apilada "Horizontal" y "Vertical",se adptanmanteneindo el orden -->
+        <StackLayout Margin="10,30,10,10">
+            <!-- Recuerden que la orientacion por defecto es vertical-->
+            <StackLayout Orientation="Horizontal">
+                <Button BackgroundColor="#6b99d3" HorizontalOptions="FillAndExpand"/>
+                <Button BackgroundColor="#b6d6f4" HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Button BackgroundColor="#b6d6f4" HeightRequest="150" HorizontalOptions="FillAndExpand"/>
+                <Button BackgroundColor="#6b99d3" HeightRequest="150" HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
+            <Button BackgroundColor="#a9dcfb" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>
+        </StackLayout>
+    </ContentPage.Content>
+
+    <Grid Margin="10,10,10,10">
+        <Label Text="Ejemplo Grid" HorizontalOptions="Center" VerticalOptions="Center" TextColor="#4169e1" Font="Bold,20"></Label>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="150"/>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Button Grid.Row="0" Grid.Column="0" BackgroundColor="#6b99d3"></Button>
+        <Button Grid.Row="0" Grid.Column="1" BackgroundColor="#b6d6f4"></Button>
+
+        <Button Grid.Row="1" Grid.Column="0" BackgroundColor="#b6d6f4"></Button>
+        <Button Grid.Row="1" Grid.Column="1" BackgroundColor="#6b99d3"></Button>
+
+        <Button Grid.Row="2" Grid.ColumnSpan="2" BackgroundColor="#a9dcfb"></Button>
+    </Grid>
+</ContentPage>
+    

@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\bin\Debug\netstandard2.0\ProjectoHamburguesaXmarin.deps.json
+C:\Users\PC\source\repos\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\bin\Debug\netstandard2.0\ProjectoHamburguesaXmarin.dll
+C:\Users\PC\source\repos\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\bin\Debug\netstandard2.0\ref\ProjectoHamburguesaXmarin.dll
+C:\Users\PC\source\repos\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\bin\Debug\netstandard2.0\ProjectoHamburguesaXmarin.pdb
+C:\Users\PC\source\repos\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\obj\Debug\netstandard2.0\ProjectoHamburguesaXmarin.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PC\source\repos\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PC\source\repos\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\obj\Debug\netstandard2.0\ProjectoHamburguesaXmarin.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\obj\Debug\netstandard2.0\ProjectoHamburguesaXmarin.AssemblyInfo.cs
+C:\Users\PC\source\repos\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\obj\Debug\netstandard2.0\ProjectoHamburguesaXmarin.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PC\source\repos\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\obj\Debug\netstandard2.0\ProjectoHamburguesaXmarin.dll
+C:\Users\PC\source\repos\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\obj\Debug\netstandard2.0\ref\ProjectoHamburguesaXmarin.dll
+C:\Users\PC\source\repos\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\ProjectoHamburguesaXmarin\obj\Debug\netstandard2.0\ProjectoHamburguesaXmarin.pdb
